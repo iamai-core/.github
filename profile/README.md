@@ -1,5 +1,5 @@
 # iamai-core
-<img width="600" alt="iamai_logo_2" src="https://github.com/user-attachments/assets/18daef56-73b8-4031-a3aa-db53e751af25" />
+<img width="600" alt="iamai_logo_2" src="https://github.com/user-attachments/assets/302c31f7-25ca-4c5a-b2c9-3a2137a894b1" />
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Server](https://github.com/ggerganov/llama.cpp/actions/workflows/server.yml/badge.svg)](https://github.com/ggerganov/llama.cpp/actions/workflows/server.yml)
