@@ -11,13 +11,14 @@ iamai-core is an open-source project dedicated to developing cutting-edge AI tec
 
 ## Company Overview
 
-iamai-core specializes in building AI companions that learn and grow continuously based on user interactions, offering a truly personalized experience. The technology combines high-performance core systems written in C/C++, optional Python for AI agents, game engine plugins and a modern frontend built using JavaScript and React. This project allows for seamless integration of text, audio, and visual interfaces to interact with AI assistants. Developers can extend functionality through our plugin system, making it easy to add new features or integrate with existing projects.
+iamai-core specializes in building AI companions that learn and grow continuously based on user interactions, offering a truly personalized experience. The technology combines high-performance core systems written in C/C++, optional Python for AI agents, game engine plugins and a modern frontend built using JavaScript and React. This project allows for seamless integration of text, audio, and visual interfaces to interact with AI assistants.
 
 ## Key Highlights:
 - Open-Source AI: iamai-core focuses on providing a transparent, open-source framework for AI development.
 - Local, Private Data Processing: All data is processed locally on personal devices, ensuring that user data remains private and secure.
 - Real-Time Data Processing and Neural Networks: The project emphasizes real-time data processing and AI model training using consumer-grade hardware.
 - Cross-Platform Architecture: A robust system capable of running on various devices and operating systems.
+- Dual Design: Powerful tools for developers while maintaining simple apps for everyone else.
 
 ## How to Contribute:
 1. Fork the repo, make your changes, submit a pull request
