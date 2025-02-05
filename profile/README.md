@@ -9,8 +9,6 @@
 
 iamai-core is an open-source project dedicated to developing cutting-edge AI technology that runs entirely on personal devices, without relying on cloud services. Unlike traditional AI models that require cloud infrastructure for training and processing, iamai-core provides users with complete control over their data and AI models. This ensures enhanced privacy and accountability, addressing growing concerns about data security and the ethical implications of cloud-based AI systems.
 
-## Company Overview
-
 iamai-core specializes in building AI companions that learn and grow continuously based on user interactions, offering a truly personalized experience. The technology combines high-performance core systems written in C/C++, optional Python for AI agents, game engine plugins and a modern frontend built using JavaScript and React. This project allows for seamless integration of text, audio, and visual interfaces to interact with AI assistants.
 
 ## Key Highlights:
