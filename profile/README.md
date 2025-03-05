@@ -14,7 +14,7 @@ iamai-core specializes in building AI companions that learn and grow continuousl
 ## Key Highlights:
 - Open-Source AI: iamai-core focuses on providing a transparent, open-source framework for AI development.
 - Local, Private Data Processing: All data is processed locally on personal devices, ensuring that user data remains private and secure.
-- Real-Time Data Processing and Neural Networks: The project emphasizes real-time data processing and AI model training using consumer-grade hardware.
+- Real-Time Data Processing: The project emphasizes real-time data processing and AI model training using consumer-grade hardware.
 - Cross-Platform Architecture: A robust system capable of running on various devices and operating systems.
 - Dual Design: Powerful tools for developers while maintaining simple apps for everyone else.
 
