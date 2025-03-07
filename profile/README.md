@@ -18,6 +18,11 @@ iamai-core specializes in building AI companions that learn and grow continuousl
 - Cross-Platform Architecture: A robust system capable of running on various devices and operating systems.
 - Dual Design: Powerful tools for developers while maintaining simple apps for everyone else.
 
+## How to Donate:
+1. Bitcoin: bc1qyvmjamjtt5f20q0k8nkkurdcjlyd8ptaag4qq7
+2. Ethereum/Arbitrum/Base/Tokens: 0x26827CcE25992d47180aAD75f3E69cb57D71602B
+3. If you have [[MorpheusAI](https://mor.org)] Base Network [[MOR](https://app.uniswap.org/explore/tokens/base/0x7431ada8a591c955a994a21710752ef9b882b8e3)] tokens, you can stake them on the iamai-core [[Builder Subnet](https://dashboard.mor.org/#/builders/0x4501d4e79230adce800ff26e5d2e2ae061f1e54da8508fe17dd1462388fb8373?chain=8453&network=mainnet)] page.
+   
 ## How to Contribute:
 1. Fork the repo, make your changes, submit a pull request
 2. Join our Discord to discuss the project: [[Discord Link](https://discord.gg/6TdQR7Ht3U)]
