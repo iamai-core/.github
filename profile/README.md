@@ -72,6 +72,7 @@ Help keep personal AI truly personal by supporting iamai-core:
   - If you have [[MorpheusAI](https://mor.org)] Base Network [[MOR](https://app.uniswap.org/explore/tokens/base/0x7431ada8a591c955a994a21710752ef9b882b8e3)] tokens, you can stake them on the iamai-core [[Builder Subnet](https://dashboard.mor.org/#/builders/0x4501d4e79230adce800ff26e5d2e2ae061f1e54da8508fe17dd1462388fb8373?chain=8453&network=mainnet)] page.
 
 ## Sponsors - Thank You!
+- [Satori](https://satorinet.io)
 - [MorpheusAI](https://mor.org)
 
 ---
