@@ -39,7 +39,7 @@ The technical implementation combines high-performance core systems written in C
 - SQLite for data storage
 - JNI native Android app (text chat, earbud audio interface)
 
-## Roadmap
+## Product Roadmap
 
 We're building iamai-core in phases:
 
@@ -54,6 +54,11 @@ We're building iamai-core in phases:
 
 ## Get Involved
 
+### Contribute
+
+- Fork the repo, make your changes, submit a pull request
+- Join our discussions and share your ideas
+
 ### Support the Project
 
 Help keep personal AI truly personal by supporting iamai-core:
@@ -64,17 +69,15 @@ Help keep personal AI truly personal by supporting iamai-core:
 - **Morpheus Staker Benefits**: Get early access to builds and direct input on features
   - If you have [[MorpheusAI](https://mor.org)] Base Network [[MOR](https://app.uniswap.org/explore/tokens/base/0x7431ada8a591c955a994a21710752ef9b882b8e3)] tokens, you can stake them on the iamai-core [[Builder Subnet](https://dashboard.mor.org/#/builders/0x4501d4e79230adce800ff26e5d2e2ae061f1e54da8508fe17dd1462388fb8373?chain=8453&network=mainnet)] page.
 
-### Contribute
-
-- Fork the repo, make your changes, submit a pull request
-- Join our discussions and share your ideas
-
 ## Connect With Us
 
 - [Website](https://iamai-core.org)
 - [Discord](https://discord.gg/6TdQR7Ht3U)
 - [Twitter](https://x.com/iamai_core)
 - [LinkedIn](https://www.linkedin.com/company/iamai-core)
+
+## Sponsors - Thank You!
+- [MorpheusAI](https://mor.org)
 
 ---
 
