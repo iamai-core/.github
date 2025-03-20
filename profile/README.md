@@ -5,24 +5,77 @@
 
 ----
 
-## Project Overview
+## Personal AI, Simply Yours
 
-iamai-core is an open-source project dedicated to developing cutting-edge AI technology that runs entirely on personal devices, without relying on cloud services. Unlike traditional AI models that require cloud infrastructure for training and processing, iamai-core provides users with complete control over their data and AI models. This ensures enhanced privacy and accountability, addressing growing concerns about data security and the ethical implications of cloud-based AI systems.
+iamai-core is free, open-source personal AI that runs entirely on your own device, learns from your interactions, and keeps everything private. No cloud services, no data sharing, no complex setup - just download and start.
 
-iamai-core specializes in building AI companions that learn and grow continuously based on user interactions, offering a truly personalized experience. The technology combines high-performance core systems written in C/C++, optional Python for AI agents, game engine plugins and a modern frontend built using JavaScript and React. This project allows for seamless integration of text, audio, and visual interfaces to interact with AI assistants.
+## What Makes iamai-core Different?
 
-## Key Highlights:
-- Open-Source AI: iamai-core focuses on providing a transparent, open-source framework for AI development.
-- Local, Private Data Processing: All data is processed locally on personal devices, ensuring that user data remains private and secure.
-- Real-Time Data Processing: The project emphasizes real-time data processing and AI model training using consumer-grade hardware.
-- Cross-Platform Architecture: A robust system capable of running on various devices and operating systems.
-- Dual Design: Powerful tools for developers while maintaining simple apps for everyone else.
+In the world of local AI, there's a stark divide: complex tools for developers or simple website apps that lack capability. iamai-core bridges this gap by being both a straightforward AI application and a set of easy-to-use developer plugins.
 
-## How to Donate:
-1. Bitcoin: bc1qyvmjamjtt5f20q0k8nkkurdcjlyd8ptaag4qq7
-2. Ethereum/Arbitrum/Base/Tokens: 0x26827CcE25992d47180aAD75f3E69cb57D71602B
-3. If you have [[MorpheusAI](https://mor.org)] Base Network [[MOR](https://app.uniswap.org/explore/tokens/base/0x7431ada8a591c955a994a21710752ef9b882b8e3)] tokens, you can stake them on the iamai-core [[Builder Subnet](https://dashboard.mor.org/#/builders/0x4501d4e79230adce800ff26e5d2e2ae061f1e54da8508fe17dd1462388fb8373?chain=8453&network=mainnet)] page.
-   
-## How to Contribute:
-1. Fork the repo, make your changes, submit a pull request
-2. Join our Discord to discuss the project: [[Discord Link](https://discord.gg/6TdQR7Ht3U)]
+- **Fully Local Operation**: Works without internet, portable, disaster-proof
+- **Live Training Approach**: Learns continuously from your interactions
+- **Complete Privacy**: Your data stays on your device
+- **Cross-Platform**: Supports Windows, macOS, Linux and phone integration
+- **Developer-Friendly**: C/C++ core with React/Next.js GUI and game engine plugins
+- **Multimodal**: Text, audio, and visual interfaces
+
+## Core Architecture
+
+Our technology is built around three main components:
+1. **Core neural network** ("brain")
+2. **Data modality I/O systems** ("senses")
+3. **Traditional programming interfaces** ("tools")
+
+The technical implementation combines high-performance core systems written in C/C++, with a modern frontend built using JavaScript and React, allowing for seamless integration of text, audio, and visual interfaces.
+
+## Technical Implementation
+
+- Standalone cross-platform C++ CMAKE app
+- Static Next.js/React app GUI
+- GUI files served using Crow
+- WebSockets between C++ and GUI
+- ZeroMQ push/pull queues for communication
+- SQLite for data storage
+- JNI native Android app (text chat, earbud audio interface)
+
+## Roadmap
+
+We're building iamai-core in phases:
+
+1. **Foundation**: Local text chat companion
+2. **Multimodal Expansion**: Voice and image capabilities
+3. **Personal Knowledge Integration**: Document and social media integration
+4. **Continual Learning Framework**: Real-time learning from interactions
+5. **Agentic Desktop Assistant**: Screen understanding and PC interaction
+6. **Latent Pool Protocol**: Secure peer-to-peer AI communication
+
+[Detailed Product Roadmap](roadmap.md)
+
+## Get Involved
+
+### Support the Project
+
+Help keep personal AI truly personal by supporting iamai-core:
+
+- **Crypto Donations**:
+  - Bitcoin: bc1qyvmjamjtt5f20q0k8nkkurdcjlyd8ptaag4qq7
+  - Ethereum/Arbitrum/Base/Tokens: 0x26827CcE25992d47180aAD75f3E69cb57D71602B
+- **Morpheus Staker Benefits**: Get early access to builds and direct input on features
+  - If you have [[MorpheusAI](https://mor.org)] Base Network [[MOR](https://app.uniswap.org/explore/tokens/base/0x7431ada8a591c955a994a21710752ef9b882b8e3)] tokens, you can stake them on the iamai-core [[Builder Subnet](https://dashboard.mor.org/#/builders/0x4501d4e79230adce800ff26e5d2e2ae061f1e54da8508fe17dd1462388fb8373?chain=8453&network=mainnet)] page.
+
+### Contribute
+
+- Fork the repo, make your changes, submit a pull request
+- Join our discussions and share your ideas
+
+## Connect With Us
+
+- [Website](https://iamai-core.org)
+- [Discord](https://discord.gg/6TdQR7Ht3U)
+- [Twitter](https://x.com/iamai_core)
+- [LinkedIn](https://www.linkedin.com/company/iamai-core)
+
+---
+
+**Free & Local AI for Everyone**
