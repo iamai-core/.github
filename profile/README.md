@@ -74,6 +74,7 @@ Help keep personal AI truly personal by supporting iamai-core:
 ## Sponsors - Thank You!
 - [Satori](https://satorinet.io)
 - [MorpheusAI](https://mor.org)
+- [Greg Whisenant](https://www.linkedin.com/in/greg-whisenant-305705)
 
 ---
 
