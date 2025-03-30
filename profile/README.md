@@ -75,6 +75,7 @@ Help keep personal AI truly personal by supporting iamai-core:
 - [Satori](https://satorinet.io)
 - [MorpheusAI](https://mor.org)
 - [Greg Whisenant](https://www.linkedin.com/in/greg-whisenant-305705)
+- [Duane Johnson](https://github.com/canadaduane)
 
 ---
 
